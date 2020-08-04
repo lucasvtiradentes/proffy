@@ -39,7 +39,10 @@
         "tsx": "never"
       }
     ],
-    "@typescript-eslint/explicit-module-boundary-types": "off"
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "jsx-a11y/label-has-associated-control": "off",
+    "react/prop-types": "off",
+    "react/destructuring-assignment": "off"
   },
 
   "settings": {

@@ -43,6 +43,7 @@ body {
 
 body, input, button, textarea {
   font: 500 1.6rem Poppins;
+  color: var(--color-text-base);
 
 }
 
@@ -55,4 +56,8 @@ body, input, button, textarea {
   :root {
     font-size: 62.5%
   }
+}
+
+button {
+  cursor: pointer;
 }
